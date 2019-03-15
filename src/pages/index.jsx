@@ -72,10 +72,10 @@ const Index = () => (
         <ProjectsWrapper>
           <ProjectCard
             title="Catch Of The Day"
-            link="https://cotd-yyqwlavsfe.now.sh"
+            link="https://5c61c977999f0801745ed30b--startae14.netlify.com"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is a menu using the basic elements of react.
+            This project is a restaurant menu interactive using the basic elements of react.
           </ProjectCard>
           <ProjectCard
             title="Harry Potter"
